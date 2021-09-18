@@ -4,7 +4,7 @@
 		<pages>
 			<Page title="Title">
 				<content>
-                <Button type="Emphasized" text="Hello1"/>
+                <Button type="Emphasized" text="Hello2"/>
                 </content>
 			</Page>
 		</pages>
