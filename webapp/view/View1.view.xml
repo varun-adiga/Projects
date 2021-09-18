@@ -2,7 +2,7 @@
 	xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="{i18n>title}">
+			<Page title="App">
 				<content></content>
 			</Page>
 		</pages>
